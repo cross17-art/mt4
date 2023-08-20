@@ -1,0 +1,103 @@
+17.08.2023 0:40:01 - Info - Start Program
+17.08.2023 0:40:02 - Error - Expression must evaluate to a node-set.
+17.08.2023 0:42:45 - Info - Start Program
+17.08.2023 0:42:55 - Error - Expression must evaluate to a node-set.
+17.08.2023 0:43:02 - Info - Start Program
+17.08.2023 0:43:28 - Error - Expression must evaluate to a node-set.
+17.08.2023 0:44:08 - Info - Start Program
+17.08.2023 0:44:33 - Error - Expression must evaluate to a node-set.
+17.08.2023 0:44:52 - Info - Start Program
+17.08.2023 0:45:40 - Info - Start Program
+17.08.2023 0:46:19 - Info - Start Program
+17.08.2023 0:49:20 - Info - Start Program
+17.08.2023 0:53:50 - Info - Start Program
+17.08.2023 0:57:33 - Info - Start Program
+17.08.2023 1:01:16 - Info - Start Program
+17.08.2023 1:04:50 - Info - Start Program
+17.08.2023 1:05:43 - Error - Object reference not set to an instance of an object.
+17.08.2023 1:05:49 - Info - Start Program
+17.08.2023 1:08:46 - Info - Start Program
+17.08.2023 1:08:46 - Error - Object reference not set to an instance of an object.
+17.08.2023 1:09:06 - Info - Start Program
+17.08.2023 1:10:15 - Info - Start Program
+17.08.2023 1:10:15 - Error - Ключ не может быть использован в указанном состоянии.
+17.08.2023 1:10:35 - Info - Start Program
+17.08.2023 1:11:37 - Info - Start Program
+17.08.2023 1:13:58 - Info - Start Program
+17.08.2023 1:14:06 - Info - Start Program
+17.08.2023 1:14:11 - Info - Start Program
+17.08.2023 1:22:32 - Info - Start Program
+17.08.2023 1:22:32 - Error - Object reference not set to an instance of an object.
+17.08.2023 1:23:29 - Info - Start Program
+17.08.2023 1:23:29 - Error - Object reference not set to an instance of an object.
+17.08.2023 1:23:43 - Info - Start Program
+17.08.2023 1:23:44 - Error - Object reference not set to an instance of an object.
+17.08.2023 1:23:54 - Info - Start Program
+17.08.2023 1:24:14 - Info - Start Program
+17.08.2023 1:25:44 - Info - Start Program
+17.08.2023 1:25:44 - Error - Object reference not set to an instance of an object.
+17.08.2023 1:25:50 - Info - Start Program
+17.08.2023 1:26:28 - Info - Start Program
+17.08.2023 2:07:12 - Info - Start Program
+17.08.2023 2:08:27 - Info - Start Program
+17.08.2023 2:09:45 - Info - Start Program
+17.08.2023 2:09:45 - Error - Empty fields at config file
+17.08.2023 2:09:45 - Error - Empty fields at config file
+17.08.2023 2:09:56 - Info - Start Program
+17.08.2023 2:09:56 - Error - Empty fields at config file
+17.08.2023 2:09:56 - Error - Empty fields at config file
+17.08.2023 2:10:24 - Info - Start Program
+17.08.2023 2:10:27 - Error - Empty fields at config file
+17.08.2023 2:11:15 - Info - Start Program
+17.08.2023 2:11:15 - Error - Empty fields at config file
+17.08.2023 2:18:21 - Info - Start Program
+17.08.2023 2:18:38 - Info - Start Program
+17.08.2023 2:18:38 - Info - init MetaTrader configs
+17.08.2023 2:33:06 - Info - Start Program
+17.08.2023 2:33:06 - Info - init MetaTrader configs
+17.08.2023 2:33:06 - Error - The method or operation is not implemented.
+17.08.2023 2:33:20 - Info - Start Program
+17.08.2023 2:33:20 - Info - init MetaTrader configs
+17.08.2023 2:36:13 - Info - Start Program
+17.08.2023 2:36:31 - Info - init MetaTrader configs
+17.08.2023 3:17:54 - Info - Start Program
+17.08.2023 3:17:55 - Info - init MetaTrader configs
+17.08.2023 3:17:55 - Error - Object reference not set to an instance of an object.
+17.08.2023 3:18:03 - Info - Start Program
+17.08.2023 3:18:03 - Info - init MetaTrader configs
+17.08.2023 3:18:03 - Error - Object reference not set to an instance of an object.
+17.08.2023 3:18:30 - Info - Start Program
+17.08.2023 3:18:41 - Info - init MetaTrader configs
+17.08.2023 3:19:22 - Info - Start Program
+17.08.2023 3:23:29 - Info - Start Program
+17.08.2023 3:23:30 - Info - init MetaTrader configs
+17.08.2023 3:23:39 - Info - Start Program
+17.08.2023 3:23:39 - Info - init MetaTrader configs
+17.08.2023 3:30:04 - Info - Start Program
+17.08.2023 3:30:04 - Info - init /Config/Common/SQL configs
+17.08.2023 3:31:46 - Info - Start Program
+17.08.2023 3:31:54 - Info - init /Config/Common/MT4 configs
+17.08.2023 3:32:02 - Info - init /Config/Common/SQL configs
+17.08.2023 3:32:08 - Info - Start Program
+17.08.2023 3:32:08 - Info - init /Config/Common/MT4 configs
+17.08.2023 3:32:08 - Info - init /Config/Common/SQL configs
+17.08.2023 3:33:08 - Info - Start Program
+17.08.2023 3:33:08 - Info - init /Config/Common/MT4 configs
+17.08.2023 3:33:08 - Info - init /Config/Common/SQL configs
+17.08.2023 3:36:19 - Info - Start Program
+17.08.2023 3:40:27 - Info - function=>  - Start Program
+17.08.2023 3:40:27 - Error - Object reference not set to an instance of an object.
+17.08.2023 3:41:09 - Info - function=>  - Start Program
+17.08.2023 3:41:09 - Info - function=>  - init /Config/Common/MT4 configs
+17.08.2023 3:41:09 - Info - function=>  - init /Config/Common/SQL configs
+17.08.2023 3:41:17 - Info - function=>  - Start Program
+17.08.2023 3:41:17 - Info - function=>  - init /Config/Common/MT4 configs
+17.08.2023 3:41:17 - Error - Expression must evaluate to a node-set.
+17.08.2023 3:41:41 - Info - function=>  - Start Program
+17.08.2023 3:41:41 - Info - function=>  - init /Config/Common/MT4 configs
+17.08.2023 3:42:27 - Info - Start Program
+17.08.2023 3:42:27 - Info - init /Config/Common/MT4 configs
+17.08.2023 3:42:27 - Error - function=> initConfigSettings - Expression must evaluate to a node-set.
+17.08.2023 3:42:47 - Info - Start Program
+17.08.2023 3:42:47 - Info - init /Config/Common/MT4 configs
+17.08.2023 3:42:47 - Info - init /Config/Common/SQL configs

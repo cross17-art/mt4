@@ -1,0 +1,44 @@
+19.08.2023 12:31:51 - Info - Start Program
+19.08.2023 12:38:25 - Info - Start Program
+19.08.2023 12:38:25 - Error - function=> .ctor - The 'SUNs' start tag on line 39 position 12 does not match the end tag of 'SUN'. Line 41, position 13.
+19.08.2023 12:38:32 - Info - Start Program
+19.08.2023 12:38:32 - Error - function=> CreateSwapTimeList - Invalid name of the week System.String[]
+19.08.2023 12:38:57 - Info - Start Program
+19.08.2023 12:38:57 - Error - function=> CreateSwapTimeList - Invalid name of the week System.String[]
+19.08.2023 12:39:05 - Info - Start Program
+19.08.2023 12:40:39 - Info - Start Program
+19.08.2023 12:40:39 - Error - function=> CreateSwapTimeList - Invalid name of the week MON,TUE,WED,THU,FRI,SAT,SUN
+19.08.2023 12:40:57 - Info - Start Program
+19.08.2023 12:40:57 - Error - function=> CreateSwapTimeList - Invalid name of the week. Should be =>MON,TUE,WED,THU,FRI,SAT,SUN
+19.08.2023 12:42:11 - Info - Start Program
+19.08.2023 12:42:49 - Error - function=> CreateSwapTimeList - Invalid name of the week. Should be =>MON,TUE,WED,THU,FRI,SAT,SUN
+19.08.2023 12:43:08 - Info - Start Program
+19.08.2023 12:43:15 - Error - function=> CreateSwapTimeList - Invalid name of the week. Should be =>MON,TUE,WED,THU,FRI,SAT,SUN
+19.08.2023 12:44:31 - Info - Start Program
+19.08.2023 12:45:33 - Info - Start Program
+19.08.2023 12:45:33 - Info - init /Config/Common/MT4 configs
+19.08.2023 12:45:33 - Info - init /Config/Common/SQL configs
+19.08.2023 12:45:48 - Info - Start Program
+19.08.2023 12:45:48 - Error - function=> CreateSwapTimeList - Invalid name of the week. Should be =>MON,TUE,WED,THU,FRI,SAT,SUN
+19.08.2023 16:04:38 - Info - Start Program
+19.08.2023 16:06:46 - Info - Start Program
+19.08.2023 16:18:31 - Info - Start Program
+19.08.2023 16:18:31 - Info - init /Config/Common/MT4 configs
+19.08.2023 16:18:31 - Info - init /Config/Common/SQL configs
+19.08.2023 16:18:41 - Info - Start Program
+19.08.2023 16:18:41 - Error - function=> InitSwapTime - The time tag does not match, the time field should contain the following format 10:00
+19.08.2023 17:04:25 - Info - Start Program
+19.08.2023 17:04:26 - Error - function=> initConfigSettings - Object reference not set to an instance of an object.
+19.08.2023 17:05:26 - Info - Start Program
+19.08.2023 17:06:00 - Info - Start Program
+19.08.2023 17:06:01 - Error - function=> InitSwapTime - The time tag does not match, the time field should contain the following format 10:00
+19.08.2023 17:06:51 - Info - Start Program
+19.08.2023 17:06:52 - Info - init /Config/Common/MT4 configs
+19.08.2023 17:06:52 - Info - init /Config/Common/SQL configs
+19.08.2023 17:07:02 - Info - Start Program
+19.08.2023 17:07:14 - Info - init /Config/Common/MT4 configs
+19.08.2023 17:07:50 - Info - Start Program
+19.08.2023 17:07:51 - Info - init /Config/Common/MT4 configs
+19.08.2023 17:14:32 - Info - Start Program
+19.08.2023 17:14:32 - Info - init /Config/Common/MT4 configs
+19.08.2023 17:14:32 - Info - init /Config/Common/SQL configs

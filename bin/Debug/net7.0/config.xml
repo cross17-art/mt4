@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Common>
+    <MT4>
+      <Server>
+        <Address>mt5r1.corp.j2t.com:443</Address>
+        <Login>1060</Login>
+        <Password Secured="True">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAD+QjrhLft0yD9nL77UWEWAAAAAACAAAAAAAQZgAAAAEAACAAAAA/GfQ16gz3N06ThxQRzyyx+M/CodUcn55Do6mtzFJ0jwAAAAAOgAAAAAIAACAAAAAnsxvoS9IXaEakuS8JVgWvDJUm5G+LLtlwEtEnGoV5ChAAAAAgYiQECVVbFs4eCyCgj+yQQAAAADmu+Fjb6xUhj6tDaSeWzCjKeiU+Ad+8CBVlZdlKVIViO7h3mwKAJfcOKU4q3XF79t/h8vjhI3xro35bnbe5z80=</Password>
+        <syncSwapTime>
+          <time>10:00</time>
+        </syncSwapTime>
+      </Server>
+      <Server>
+        <Address>mt5r3</Address>
+        <Login>1612</Login>
+        <Password Secured="True">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAD+QjrhLft0yD9nL77UWEWAAAAAACAAAAAAAQZgAAAAEAACAAAACcc0BAZpHVvEpR9LhVlB6XzXDzU0anTnIOEo91GyqAsgAAAAAOgAAAAAIAACAAAACkXRqfWyGmi6eXUJ+FtAoZPUmFp3Ex45ClIHlNErvfoBAAAACdPjg8cGV7xpOK4EOfIUHkQAAAAMwEdgAXpOjHan/PNwWlSLINStbj3yoWzWpZFAEKuXKBjHkCYapmcTNJHpvcdPiXnW7CiQNuiBVJ6hPvS2NPu68=</Password>
+        <syncSwapTime>
+          <MON>
+            <time>10:00</time>
+            <time>10:15</time>
+            <time>19:30</time>
+          </MON>
+          <TUE>
+            <time>00:01</time>
+          </TUE>
+          <WED>
+            <time>00:34</time>
+          </WED>
+          <THU>
+            <time>00:39</time>
+            <time>23:59</time>
+          </THU>
+          <FRI>
+            <time>24:00</time>
+          </FRI>
+          <SAT>
+            <time>11:00</time>
+          </SAT>
+          <SUN>
+            <time>14:23</time>
+          </SUN>
+        </syncSwapTime>
+      </Server>
+    </MT4>
+    <SQL>
+      <Server>
+        <Address>iny-mysql-db1.corp.j2t.com</Address>
+        <Port>3306</Port>
+        <User>ishpileuski</User>
+        <Password Secured="True">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAD+QjrhLft0yD9nL77UWEWAAAAAACAAAAAAAQZgAAAAEAACAAAAAtKbKdDwnP457iKYSz6e/BxfsnB/86vc6El/wRJFQ8nwAAAAAOgAAAAAIAACAAAABXegUetT9iKlqnl/wCsTkQ5A53JIP4NJG3RfjQSdhe5RAAAADzKkJ2p1qDkoq9dKz+7NQbQAAAAE/kRq+RGoZGrxQw9fIBzvZ0Np14n9L+dXGdlIfWICMVoJyT5mlvJO7AxYHpvxiur1XwAFOfKrAUl1Vtn/lzWNU=</Password>
+        <Database>mt5r01</Database>
+        <SQLQuery>asdasdsadas</SQLQuery>
+      </Server>
+    </SQL>
+  </Common>
+</Config>
