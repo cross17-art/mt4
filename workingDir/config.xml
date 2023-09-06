@@ -5,7 +5,7 @@
       <Server>
         <Address>10.248.0.43:443</Address>
         <Login>60</Login>
-        <Password Secured="True">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAAUQiX9pVdU++ub+dlusURQAAAAACAAAAAAADZgAAwAAAABAAAADFy4cJs6G3EFhsB77A/Xl2AAAAAASAAACgAAAAEAAAACLAlNZYxWG+4MBtyNwh2EgIAAAA+xnDXdCSTekUAAAAANSr4cy3AtjAJbTEUcBU/Nl68Ls=</Password>
+        <Password Secured="False">123</Password>
         <syncSwapTime>
           <MON>
             <time>00:00</time>
