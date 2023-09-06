@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Common>
+    <MT4>
+      <Server>
+        <Address>10.248.0.43:443</Address>
+        <Login>60</Login>
+        <Password Secured="True">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAAUQiX9pVdU++ub+dlusURQAAAAACAAAAAAADZgAAwAAAABAAAADm7WagU2JRYPvak9MNvaMSAAAAAASAAACgAAAAEAAAAKmlvhUxFgijRifz49paBm0IAAAAyINFfBCcqEUUAAAA1+BgOvIe+oUh1p9xvSmIN9Pd5pQ=</Password>
+        <syncSwapTime>
+          <MON>
+            <time>00:00</time>
+            <time>10:15</time>
+            <time>19:30</time>
+          </MON>
+          <TUE>
+            <time>00:01</time>
+          </TUE>
+          <WED>
+            <time>00:34</time>
+          </WED>
+          <THU>
+            <time>00:39</time>
+            <time>23:59</time>
+          </THU>
+          <FRI>
+            <time>23:00</time>
+          </FRI>
+          <SAT>
+            <time>11:00</time>
+          </SAT>
+          <SUN>
+            <time>14:23</time>
+          </SUN>
+        </syncSwapTime>
+      </Server>
+    </MT4>
+    <SQL>
+      <Server>
+        <Address>localhost</Address>
+        <Port>5432</Port>
+        <User>postgres</User>
+        <Password Secured="True">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAAUQiX9pVdU++ub+dlusURQAAAAACAAAAAAADZgAAwAAAABAAAACpRhM1M7lbkJB8v2QbKZC9AAAAAASAAACgAAAAEAAAAGpg3jOybf5LllsxHi7/AyEIAAAAHYnV6qruaxwUAAAATCYhPfHIMASkXOGIZk8fE02TQ58=</Password>
+        <Database>MT4</Database>
+        <SQLQuery>asdasdsadas</SQLQuery>
+      </Server>
+    </SQL>
+  </Common>
+</Config>

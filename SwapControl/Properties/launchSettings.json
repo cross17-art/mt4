@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SwapControl": {
+      "commandName": "Project",
+      "workingDirectory": "..\\workingDir"
+    }
+  }
+}
