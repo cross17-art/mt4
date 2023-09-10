@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace SwapControl.MT.StructLib
 {
     [StructLayout(LayoutKind.Sequential, CharSet = CharSet.Ansi)]
-    internal struct ConGroupSec
+    public struct ConGroupSec
     {
         int show, trade;            // enable show and trade for this group of securites
         int execution;             // dealing mode-EXECUTION_MANUAL,EXECUTION_AUTO,EXECUTION_ACTIVITY
