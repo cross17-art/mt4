@@ -14,7 +14,7 @@ namespace SwapControl.MT.StructLib
 {
 
     [StructLayout(LayoutKind.Sequential, CharSet = CharSet.Ansi)]
-    internal struct ConGroup
+    public struct ConGroup
     {
 
         //--- common settings
