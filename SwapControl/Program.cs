@@ -55,7 +55,7 @@ internal class Program
                 { "connectionSQL", sqlSettings.FirstOrDefault().GetConnectionString() }
          };
 
-        for (int i = 0; i < executionTimes.Length; i++)
+        for (int i = 0; i < executionTimes.Count; i++)
         {
             var jobTask = JobBuilder.Create<SyncData>()
                 .WithIdentity($"myJob_{i}", "group1")
