@@ -9,7 +9,7 @@ namespace SwapControl.MT.StructLib
 {
     
     [StructLayout(LayoutKind.Sequential, CharSet = CharSet.Ansi)]
-    internal struct ConGroupMargin
+    public struct ConGroupMargin
     {
         [MarshalAs(UnmanagedType.ByValTStr, SizeConst = 12)]
         public string symbol;            // security
